@@ -7,7 +7,7 @@ int soma(int num1, int num2){
   return num1 + num2;
 }
 
-int mai(void) {
+int main(void) {
   int num1, num2;
   
   printf("Numero 1: ");

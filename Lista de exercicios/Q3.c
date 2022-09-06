@@ -18,7 +18,7 @@ int fatorial(int num){
     printf("Erro!");
 }
 
-int man(){
+int main(){
   int num; 
   
   printf("Insira o numero: ");
