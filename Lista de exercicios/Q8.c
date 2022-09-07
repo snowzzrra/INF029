@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+8) Crie um programa que tenha a função cadastrarCliente. Essa função deve ler os dados do cliente (nome, dataNascimento, cpf, sexo) e retornar os dados do cliente. A função main deve imprimir os dados do cliente.
+*/
+
 struct cadastrar{
     char nome[50];
     char dataNasc[20];
